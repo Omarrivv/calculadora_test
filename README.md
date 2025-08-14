@@ -11,7 +11,7 @@ La clase `Calculadora` ahora incluye los siguientes métodos:
 - `porcentaje(int parte, int total)`: Calcula el porcentaje que representa `parte` sobre `total`. Lanza `ArithmeticException` si el total es cero.
 - `raizCuadrada(double x)`: Devuelve la raíz cuadrada de `x`. Lanza `IllegalArgumentException` si `x` es negativo.
 
-## Pruebas unitarias
+Pruebas unitarias
 
 En `CalculadoraTest` se incluyen pruebas para cada método, cubriendo:
 
